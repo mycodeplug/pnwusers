@@ -1,8 +1,9 @@
-3141268,WA7HAA,Steven L,Portland,Oregon,LH: 2021-08-03 on Oregon,United States
 3175840,N9NJS,Brent L,Hampshire,Illinois,LH: 2021-08-03 on Bridge,United States
+3141268,WA7HAA,Steven L,Portland,Oregon,LH: 2021-08-03 on Oregon,United States
+3175852,KJ7TBW,Bill,Newberg,Oregon,LH: 2021-08-03 on Oregon,United States
+3182785,N4ZWV,John,Monroeville,Alabama,LH: 2021-08-03 on Bridge,United States
 3174261,N6PUD,Timothy,Lake Elsinore,California,LH: 2021-08-03 on TAC 310,United States
 3174267,K7NWT,Darren F,Damascus,Oregon,LH: 2021-08-03 on Oregon,United States
-3182785,N4ZWV,John,Monroeville,Alabama,LH: 2021-08-03 on Bridge,United States
 3170191,K7VKT,Venkat,Hillsboro,Oregon,LH: 2021-08-03 on Oregon,United States
 3165770,K7ZPJ,Bruce A,Beavercreek,Oregon,LH: 2021-08-03 on Oregon,United States
 3166978,K7TRX,Henry L,Amity,Oregon,LH: 2021-08-03 on Oregon,United States
@@ -283,7 +284,6 @@
 3179706,N4BJH,Bernard,Wake Forest,North Carolina,LH: 2021-08-02 on Bridge,United States
 3135424,WQ7H,James,Kirkland,Washington,LH: 2021-08-02 on Cascades,United States
 3158125,WB9KAE,Richard,Wilmington,North Carolina,LH: 2021-08-02 on Bridge,United States
-3175852,KJ7TBW,Bill,Newberg,Oregon,LH: 2021-08-02 on Cascades,United States
 3158862,ND7P,Don,Vancouver,Washington,LH: 2021-08-02 on Cascades,United States
 3178350,KF0EOI,Lewis,Prairie Home,Missouri,LH: 2021-08-02 on Bridge,United States
 3153719,KG7HZT,Jeffrey W,Spokane Valley,Washington,LH: 2021-08-02 on Cascades,United States
@@ -1108,7 +1108,7 @@
 1112728,K4LDK,L.D.,Fort Pierce,Florida,LH: 2021-07-30 on Bridge,United States
 3168971,KD9PST,Paul,St. Charles,Illinois,LH: 2021-07-30 on Bridge,United States
 3156048,N7JJY,George J,Cheyenne,Wyoming,Portable,United States
-3138127,KJ6SEE,Daniel N,Edmonds,Washington,LH: 2021-07-30 on Unknown Ipsc group 9999,United States
+3138127,KJ6SEE,Daniel N,Edmonds,Washington,LH: 2021-07-30 on Audio Test,United States
 3153775,WR5TX,Royce D,Maple Falls,Washington,LH: 2021-07-30 on TAC 310,United States
 3145847,N4OVQ,Stacey,Anderson,South Carolina,LH: 2021-07-30 on Bridge,United States
 3133484,N1YVM,Paul R,Fitzwilliam,New Hampshire,LH: 2021-07-30 on North Am,United States
@@ -1578,7 +1578,7 @@
 3156530,KD5EH,James E,Ballwin,Missouri,LH: 2021-07-26 on Bridge,United States
 3140144,K5DHH,David,Norman,Oklahoma,Portable,United States
 3115474,N5JCS,James,Collinsville,Mississippi,LH: 2021-07-26 on Bridge,United States
-3163487,W7OH,Daniel G,Seattle,Washington,LH: 2021-07-26 on Audio Test,United States
+3163487,W7OH,Daniel G,Seattle,Washington,LH: 2021-07-26 on Unknown Ipsc group 9999,United States
 3027176,VA7FX,Al,Maple Ridge,British Columbia,VA7FX,Canada
 1117270,KD9HVU,Dushan,Arlington Heights,Illinois,LH: 2021-07-26 on California,United States
 3160196,KB8GUI,Larry L,Fairborn,Ohio,LH: 2021-07-26 on TAC 310,United States
@@ -2244,7 +2244,7 @@
 3164865,WD2NJC,Phillip,Avenel,New Jersey,LH: 2021-07-20 on TAC 310,United States
 3167223,N7VWH,Dawn M,Bellevue,Washington,LH: 2021-07-20 on Oregon,United States
 3171895,K6PFN,John J,Los Angeles,California,LH: 2021-07-20 on Oregon,United States
-3149670,W7WDM,Ward D,Ferndale,Washington,LH: 2021-07-20 on Unknown Ipsc group 9999,United States
+3149670,W7WDM,Ward D,Ferndale,Washington,LH: 2021-07-20 on Audio Test,United States
 3117013,KA9SUU,Greg,Keller,Texas,Portable,United States
 3131429,KJ7BDD,Michael R,Puyallup,Washington,LH: 2021-07-20 on Oregon,United States
 3170264,KL3DO,Eric R,Fairbanks,Alaska,LH: 2021-07-20 on MPRG1,United States
@@ -5811,7 +5811,7 @@
 3143330,KA5Q,Steven G,Boulder,Colorado,LH: 2021-05-22 on Bridge,United States
 3134907,KT2Y,Herbert W,Wenonah,New Jersey,LH: 2021-05-22 on TAC 310,United States
 3175244,KD5Y,Michael R,Hewitt,Texas,LH: 2021-05-22 on TAC 310,United States
-3150790,KE7CFM,Dee W,North Bend,Washington,LH: 2021-05-22 on Unknown Ipsc group 9999,United States
+3150790,KE7CFM,Dee W,North Bend,Washington,LH: 2021-05-22 on Audio Test,United States
 3140789,W5JHC,John,Owasso,Oklahoma,LH: 2021-05-22 on Oregon,United States
 3170892,AG3F,Joseph P,Lakewood Ranch,Florida,LH: 2021-05-22 on Bridge,United States
 3178837,KM4YRK,Donald,Grand Bay,Alabama,LH: 2021-05-22 on Bridge,United States
@@ -6157,7 +6157,7 @@
 3124494,WA1HGS,George,Tall Timbers,Maryland,LH: 2021-05-16 on Bridge,United States
 3169668,K6SCZ,Christopher,Seaside,California,LH: 2021-05-16 on TAC 310,United States
 3128740,K4LXN,Tracey,Moyock,North Carolina,LH: 2021-05-16 on Bridge,United States
-3168618,KJ7PKT,Christopher,Redmond,Washington,LH: 2021-05-16 on Audio Test,United States
+3168618,KJ7PKT,Christopher,Redmond,Washington,LH: 2021-05-16 on Unknown Ipsc group 9999,United States
 3145640,K2DEE,Ray,Ellenton,Florida,LH: 2021-05-15 on Bridge,United States
 3023721,VE3CWR,Gerard,Bowmanville,Ontario,LH: 2021-05-15 on California,Canada
 3172407,KD6DWX,Charles E,Riverside,California,LH: 2021-05-15 on Bridge,United States
