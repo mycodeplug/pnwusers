@@ -10,8 +10,14 @@ function make_csv() {
       -e PGPASSWORD=$PGPASSWORD \
       -v $SCRIPTPATH/sql/$1:/sql/pg_to_csv.sql \
     postgres:12-alpine \
-    bash -c 'cat /sql/pg_to_csv.sql | psql -q' > $(date +%Y-%m-%d)-$2.csv
+    bash -c 'cat /sql/pg_to_csv.sql | psql -q' > "$SCRIPTPATH/pnwusers-$2.csv"
 }
 
+if [ -z "$PGPASSWORD" ]; then
+  echo "Set PGPASSWORD in the environment."
+  exit 1
+fi
+mkdir -p "$SCRIPTPATH/prev"
+cp "$SCRIPTPATH"/*.csv "$SCRIPTPATH/prev/"
 make_csv pg_to_TYT_csv.sql md-uv380
 make_csv pg_to_AT_csv.sql anytone-878
