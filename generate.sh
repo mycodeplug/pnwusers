@@ -21,3 +21,12 @@ mkdir -p "$SCRIPTPATH/prev"
 cp "$SCRIPTPATH"/*.csv "$SCRIPTPATH/prev/"
 make_csv pg_to_TYT_csv.sql md-uv380
 make_csv pg_to_AT_csv.sql anytone-878
+
+docker run -it --network db \
+    -e PGHOST=db \
+    -e PGDATABASE=pnwho \
+    -e PGUSER=pnwho \
+    -e PGPASSWORD=$PGPASSWORD \
+    -v $SCRIPTPATH/sql/pg_to_pnwusers_json.sql:/sql/pg_to_json.sql \
+  postgres:12-alpine \
+  bash -c 'cat /sql/pg_to_json.sql | psql -q' > "$SCRIPTPATH/pnwusers.json"
