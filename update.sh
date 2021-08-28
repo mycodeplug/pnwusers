@@ -14,5 +14,9 @@ if [[ $data_size -lt $MIN_DATA_SIZE ]]; then
   exit 1
 fi
 git add .
-git commit <<< "$(date +%Y-%m-%d) userdb update\n\n$(git diff --summary --stat --no-patch)"
+cat <<EOF | git commit -F -
+$(date +%Y-%m-%d) userdb update
+
+$(git diff --cached --summary --stat)
+EOF
 git push origin main
