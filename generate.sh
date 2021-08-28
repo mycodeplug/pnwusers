@@ -3,7 +3,7 @@
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
 function make_csv() {
-  docker run -it --network db \
+  docker run --network db \
       -e PGHOST=db \
       -e PGDATABASE=pnwho \
       -e PGUSER=pnwhoro \
@@ -22,7 +22,7 @@ cp "$SCRIPTPATH"/*.csv "$SCRIPTPATH/prev/"
 make_csv pg_to_TYT_csv.sql md-uv380
 make_csv pg_to_AT_csv.sql anytone-878
 
-docker run -it --network db \
+docker run --network db \
     -e PGHOST=db \
     -e PGDATABASE=pnwho \
     -e PGUSER=pnwhoro \
