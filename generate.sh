@@ -6,7 +6,7 @@ function make_csv() {
   docker run -it --network db \
       -e PGHOST=db \
       -e PGDATABASE=pnwho \
-      -e PGUSER=pnwho \
+      -e PGUSER=pnwhoro \
       -e PGPASSWORD=$PGPASSWORD \
       -v $SCRIPTPATH/sql/$1:/sql/pg_to_csv.sql \
     postgres:12-alpine \
@@ -25,7 +25,7 @@ make_csv pg_to_AT_csv.sql anytone-878
 docker run -it --network db \
     -e PGHOST=db \
     -e PGDATABASE=pnwho \
-    -e PGUSER=pnwho \
+    -e PGUSER=pnwhoro \
     -e PGPASSWORD=$PGPASSWORD \
     -v $SCRIPTPATH/sql/pg_to_pnwusers_json.sql:/sql/pg_to_json.sql \
   postgres:12-alpine \
