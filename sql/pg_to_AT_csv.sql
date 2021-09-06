@@ -8,7 +8,7 @@ COPY (
          INITCAP(city) as "City",
          INITCAP(state) as "State",
          INITCAP(country) as "Country",
-         '' as "Remarks",
+         NULL as "Remarks",
          'Private Call' as "Call Type",
          'None' as "Call Alert"
   FROM pnwusers
