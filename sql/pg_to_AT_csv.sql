@@ -8,15 +8,7 @@ COPY (
          INITCAP(city) as "City",
          INITCAP(state) as "State",
          INITCAP(country) as "Country",
-         COALESCE(
-             NULLIF(remarks, 'DMR'),
-             CONCAT(
-                 'LH: ',
-                 TO_CHAR(last_heard, 'YYYY-MM-DD'),
-                 ' on ',
-                 last_heard_talkgroup
-             )
-         ) as "Remarks",
+         INITCAP(remarks) as "Remarks",
          'Private Call' as "Call Type",
          'None' as "Call Alert"
   FROM pnwusers
