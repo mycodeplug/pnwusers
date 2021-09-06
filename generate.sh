@@ -10,7 +10,7 @@ function make_csv() {
       -e PGPASSWORD=$PGPASSWORD \
       -v $SCRIPTPATH/sql/$1:/sql/pg_to_csv.sql \
     postgres:12-alpine \
-    bash -c 'cat /sql/pg_to_csv.sql | psql -q' > "$SCRIPTPATH/pnwusers-$2.csv"
+    bash -c 'cat /sql/pg_to_csv.sql | psql -q'
 }
 
 if [ -z "$PGPASSWORD" ]; then
@@ -19,8 +19,8 @@ if [ -z "$PGPASSWORD" ]; then
 fi
 mkdir -p "$SCRIPTPATH/prev"
 cp "$SCRIPTPATH"/*.csv "$SCRIPTPATH/prev/"
-make_csv pg_to_TYT_csv.sql md-uv380
-make_csv pg_to_AT_csv.sql anytone-878
+make_csv pg_to_TYT_csv.sql > "$SCRIPTPATH/pnwusers-md-uv380.csv"
+make_csv pg_to_AT_csv.sql | awk 'sub("$", "\r")' > "$SCRIPTPATH/pnwusers-anytone-878.csv"
 
 docker run --network db \
     -e PGHOST=db \
