@@ -4,7 +4,7 @@ COPY (
          CONCAT(INITCAP(name), UPPER(SUBSTRING(surname from 0 for 1))),
          INITCAP(city),
          INITCAP(state),
-         INITCAP(remarks),
+         NULLIF(remarks, 'DMR'),
          INITCAP(country)
   FROM pnwusers
   WHERE callsign <> ''
