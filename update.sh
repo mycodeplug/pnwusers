@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-MIN_DATA_SIZE=3000000
+MIN_DATA_SIZE=2800000
 
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
