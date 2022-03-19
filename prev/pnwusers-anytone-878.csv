@@ -1,69 +1,69 @@
 No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
-1,3110785,KB5ZUR,David Savells,Arlington,Texas,United States,,Private Call,None
-2,3142205,N3JRO,James,Duncannon,Pennsylvania,United States,,Private Call,None
-3,3171957,AE7AK,Joann,Salt Lake City,Utah,United States,,Private Call,None
-4,3172616,KJ7OAW,Thomas R,Taylorsville,Utah,United States,,Private Call,None
-5,3165457,KJ7KPI,Ted M,Lakebay,Washington,United States,,Private Call,None
-6,3027217,VE7KH,Alfred,Coquitlam,British Columbia,Canada,,Private Call,None
-7,3140866,KA5ECX,Howard K,Oklahoma City,Oklahoma,United States,,Private Call,None
-8,3117477,N9KO,Calvin,Elk Grove Village,Illinois,United States,,Private Call,None
-9,3146685,KX4PA,Mark R,Georgetown,Kentucky,United States,,Private Call,None
-10,3130018,WR7AGT,Thomas,Jefferson City,Montana,United States,,Private Call,None
-11,3180627,N1CPR,Kenneth,North Easton,Massachusetts,United States,,Private Call,None
-12,3153206,KE0CO,Brian A,Burien,Washington,United States,,Private Call,None
-13,3153121,NO7RF,Mike,Winthrop,Washington,United States,,Private Call,None
-14,3159212,N2UBI,Joseph S.,Richlands,North Carolina,United States,,Private Call,None
-15,3136086,AE2K,Eric,Bronx,New York,United States,,Private Call,None
-16,3106811,KA6P,Patrick A,Wrightwood,California,United States,,Private Call,None
-17,3176205,KF0DNL,Robert T,Marion,Iowa,United States,,Private Call,None
-18,3135074,W5ADX,Douglas W,Edgewood,New Mexico,United States,,Private Call,None
-19,3130093,K7MTD,David D,Missoula,Montana,United States,,Private Call,None
-20,3179178,KF0ERT,Ron,Chariton,Iowa,United States,,Private Call,None
-21,3143914,K7GDM,George D,Great Falls,Montana,United States,,Private Call,None
-22,3164094,N7UFT,Dana A,Diamond Bar,California,United States,,Private Call,None
-23,3021516,VE7SVC,Clyde,Abbotsford,British Columbia,Canada,,Private Call,None
-24,3145288,KG4MSZ,Robert,Conway,South Carolina,United States,,Private Call,None
-25,3153046,N7ER,Brad,Clinton,Washington,United States,,Private Call,None
-26,1112917,KM4OGT,Jaron,Davie,Florida,United States,,Private Call,None
-27,3131867,K7JJL,Jeffrey J,Issaquah,Washington,United States,,Private Call,None
-28,3171877,KC1OAB,Robert B,Auburn,Massachusetts,United States,,Private Call,None
-29,3119645,K0JGH,Glen,Ottumwa,Iowa,United States,,Private Call,None
-30,1106888,K6AAN,Michael S,Valley Springs,California,United States,,Private Call,None
-31,3100778,KI7MD,Arthur M,Syracuse,Utah,United States,,Private Call,None
-32,3159045,W4BAD,Harold L,Hillsborough,North Carolina,United States,,Private Call,None
-33,3107183,KE6ABJ,Vladimir,Encino,California,United States,,Private Call,None
-34,3122501,N9EGT,Wayne,Clifton,Colorado,United States,,Private Call,None
-35,3124141,KR3LC,Rick,Pasadena,Maryland,United States,,Private Call,None
-36,3165536,KD0DIO,Chris,Hudson,Wisconsin,United States,,Private Call,None
-37,3157221,KL4H,Kevin,Tavares,Florida,United States,,Private Call,None
-38,3182731,KD2SUS,Thomas,Manchester Township,New Jersey,United States,,Private Call,None
-39,3129954,K3DON,Donald,Joppa,Maryland,United States,,Private Call,None
-40,3124439,AB3BO,Donald C,Freeland,Maryland,United States,,Private Call,None
-41,3171665,KJ7OXM,Chase R,Orem,Utah,United States,,Private Call,None
-42,3119102,K7PEM,Paul,Davenport,Iowa,United States,,Private Call,None
-43,3169304,NW4Q,James C,Murfreesboro,Tennessee,United States,,Private Call,None
-44,3130024,KK7GV,Al,Stevensville,Montana,United States,,Private Call,None
-45,3103574,KE7ZIS,Micah J,Missoula,Montana,United States,,Private Call,None
-46,3178303,KD8LDT,Barton,Howard,Ohio,United States,,Private Call,None
-47,3169595,KO4GBO,Steve,Boca Raton,Florida,United States,,Private Call,None
-48,3100560,KB8EMD,Larry Credit/Debit Card Baker,Jamestown,Ohio,United States,,Private Call,None
-49,3109965,N3KPJ,Albert H,Allentown,Pennsylvania,United States,,Private Call,None
-50,3143664,KJ7CLT,Eugene,Shoreline,Washington,United States,,Private Call,None
-51,3149128,AF7J,Thomas A,Ogden,Utah,United States,,Private Call,None
-52,3169061,K5GEO,George,Los Alamos,New Mexico,United States,,Private Call,None
-53,3159686,K2CVD,Christian D,New York,New York,United States,,Private Call,None
-54,3121278,KY4TPR,Jack A,Frankfort,Kentucky,United States,,Private Call,None
-55,3132261,K7VGX,Robert,Las Vegas,Nevada,United States,,Private Call,None
-56,3159549,KG7QHP,Brice E,Billings,Montana,United States,,Private Call,None
-57,3158939,KF5WFX,Marcus D,Hobbs,New Mexico,United States,,Private Call,None
-58,3100119,KC0EQA,Doug,Hastings,Nebraska,United States,,Private Call,None
-59,1112857,KJ4JM,John,Lady Lake,Florida,United States,,Private Call,None
-60,3154405,WD8OMX,Michael P,Xenia,Ohio,United States,,Private Call,None
-61,3161795,N9LV,Mathew W,Miami,Florida,United States,,Private Call,None
-62,3149597,KD0KCC,Charles L,Benton,Kansas,United States,,Private Call,None
-63,3119601,KA0YKC,Robert L,Creston,Iowa,United States,,Private Call,None
-64,3176237,W3IE,Michael,Kane,Pennsylvania,United States,,Private Call,None
-65,3106673,N5ICK,Nicholas,Menifee,California,United States,,Private Call,None
+1,3140866,KA5ECX,Howard K,Oklahoma City,Oklahoma,United States,,Private Call,None
+2,3106673,N5ICK,Nicholas,Menifee,California,United States,,Private Call,None
+3,3110785,KB5ZUR,David Savells,Arlington,Texas,United States,,Private Call,None
+4,3142205,N3JRO,James,Duncannon,Pennsylvania,United States,,Private Call,None
+5,3171957,AE7AK,Joann,Salt Lake City,Utah,United States,,Private Call,None
+6,3172616,KJ7OAW,Thomas R,Taylorsville,Utah,United States,,Private Call,None
+7,3165457,KJ7KPI,Ted M,Lakebay,Washington,United States,,Private Call,None
+8,3027217,VE7KH,Alfred,Coquitlam,British Columbia,Canada,,Private Call,None
+9,3117477,N9KO,Calvin,Elk Grove Village,Illinois,United States,,Private Call,None
+10,3146685,KX4PA,Mark R,Georgetown,Kentucky,United States,,Private Call,None
+11,3130018,WR7AGT,Thomas,Jefferson City,Montana,United States,,Private Call,None
+12,3180627,N1CPR,Kenneth,North Easton,Massachusetts,United States,,Private Call,None
+13,3153206,KE0CO,Brian A,Burien,Washington,United States,,Private Call,None
+14,3153121,NO7RF,Mike,Winthrop,Washington,United States,,Private Call,None
+15,3159212,N2UBI,Joseph S.,Richlands,North Carolina,United States,,Private Call,None
+16,3136086,AE2K,Eric,Bronx,New York,United States,,Private Call,None
+17,3106811,KA6P,Patrick A,Wrightwood,California,United States,,Private Call,None
+18,3176205,KF0DNL,Robert T,Marion,Iowa,United States,,Private Call,None
+19,3135074,W5ADX,Douglas W,Edgewood,New Mexico,United States,,Private Call,None
+20,3130093,K7MTD,David D,Missoula,Montana,United States,,Private Call,None
+21,3179178,KF0ERT,Ron,Chariton,Iowa,United States,,Private Call,None
+22,3143914,K7GDM,George D,Great Falls,Montana,United States,,Private Call,None
+23,3164094,N7UFT,Dana A,Diamond Bar,California,United States,,Private Call,None
+24,3021516,VE7SVC,Clyde,Abbotsford,British Columbia,Canada,,Private Call,None
+25,3145288,KG4MSZ,Robert,Conway,South Carolina,United States,,Private Call,None
+26,3153046,N7ER,Brad,Clinton,Washington,United States,,Private Call,None
+27,1112917,KM4OGT,Jaron,Davie,Florida,United States,,Private Call,None
+28,3131867,K7JJL,Jeffrey J,Issaquah,Washington,United States,,Private Call,None
+29,3171877,KC1OAB,Robert B,Auburn,Massachusetts,United States,,Private Call,None
+30,3119645,K0JGH,Glen,Ottumwa,Iowa,United States,,Private Call,None
+31,1106888,K6AAN,Michael S,Valley Springs,California,United States,,Private Call,None
+32,3100778,KI7MD,Arthur M,Syracuse,Utah,United States,,Private Call,None
+33,3159045,W4BAD,Harold L,Hillsborough,North Carolina,United States,,Private Call,None
+34,3107183,KE6ABJ,Vladimir,Encino,California,United States,,Private Call,None
+35,3122501,N9EGT,Wayne,Clifton,Colorado,United States,,Private Call,None
+36,3124141,KR3LC,Rick,Pasadena,Maryland,United States,,Private Call,None
+37,3165536,KD0DIO,Chris,Hudson,Wisconsin,United States,,Private Call,None
+38,3157221,KL4H,Kevin,Tavares,Florida,United States,,Private Call,None
+39,3182731,KD2SUS,Thomas,Manchester Township,New Jersey,United States,,Private Call,None
+40,3129954,K3DON,Donald,Joppa,Maryland,United States,,Private Call,None
+41,3124439,AB3BO,Donald C,Freeland,Maryland,United States,,Private Call,None
+42,3171665,KJ7OXM,Chase R,Orem,Utah,United States,,Private Call,None
+43,3119102,K7PEM,Paul,Davenport,Iowa,United States,,Private Call,None
+44,3169304,NW4Q,James C,Murfreesboro,Tennessee,United States,,Private Call,None
+45,3130024,KK7GV,Al,Stevensville,Montana,United States,,Private Call,None
+46,3103574,KE7ZIS,Micah J,Missoula,Montana,United States,,Private Call,None
+47,3178303,KD8LDT,Barton,Howard,Ohio,United States,,Private Call,None
+48,3169595,KO4GBO,Steve,Boca Raton,Florida,United States,,Private Call,None
+49,3100560,KB8EMD,Larry Credit/Debit Card Baker,Jamestown,Ohio,United States,,Private Call,None
+50,3109965,N3KPJ,Albert H,Allentown,Pennsylvania,United States,,Private Call,None
+51,3143664,KJ7CLT,Eugene,Shoreline,Washington,United States,,Private Call,None
+52,3149128,AF7J,Thomas A,Ogden,Utah,United States,,Private Call,None
+53,3169061,K5GEO,George,Los Alamos,New Mexico,United States,,Private Call,None
+54,3159686,K2CVD,Christian D,New York,New York,United States,,Private Call,None
+55,3121278,KY4TPR,Jack A,Frankfort,Kentucky,United States,,Private Call,None
+56,3132261,K7VGX,Robert,Las Vegas,Nevada,United States,,Private Call,None
+57,3159549,KG7QHP,Brice E,Billings,Montana,United States,,Private Call,None
+58,3158939,KF5WFX,Marcus D,Hobbs,New Mexico,United States,,Private Call,None
+59,3100119,KC0EQA,Doug,Hastings,Nebraska,United States,,Private Call,None
+60,1112857,KJ4JM,John,Lady Lake,Florida,United States,,Private Call,None
+61,3154405,WD8OMX,Michael P,Xenia,Ohio,United States,,Private Call,None
+62,3161795,N9LV,Mathew W,Miami,Florida,United States,,Private Call,None
+63,3149597,KD0KCC,Charles L,Benton,Kansas,United States,,Private Call,None
+64,3119601,KA0YKC,Robert L,Creston,Iowa,United States,,Private Call,None
+65,3176237,W3IE,Michael,Kane,Pennsylvania,United States,,Private Call,None
 66,3107153,W6OHV,Greg,Ontario,California,United States,,Private Call,None
 67,3182132,KO4RKB,Robert,Miami,Florida,United States,,Private Call,None
 68,3173765,W7IF,Richard G,Spokane Valley,Washington,United States,,Private Call,None
