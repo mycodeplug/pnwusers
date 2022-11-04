@@ -1427,7 +1427,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 1426,3115122,KH6FV,Carter,Honolulu,Hawaii,United States,,Private Call,None
 1427,3177378,KB5LNC,Ronald,Fredericksburg,Virginia,United States,,Private Call,None
 1428,3150941,KB0SRS,Kim R,Murray,Utah,United States,,Private Call,None
-1429,3194468,KC3UVA,Charles,Baltimore,Maryland,United States,,Private Call,None
+1429,3194468,K3CHK,Charles,Baltimore,Maryland,United States,,Private Call,None
 1430,3160342,WB4MOR,Gary S,Germantown,Tennessee,United States,,Private Call,None
 1431,3193354,W7ENT,Jon,Carnation,Washington,United States,,Private Call,None
 1432,3116918,KE4NTG,Walter J,Hollywood,Florida,United States,,Private Call,None
@@ -4387,7 +4387,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4386,3149003,WR7O,Douglas,Sandy,Utah,United States,,Private Call,None
 4387,3118538,KB9EKA,Anthony,Speedway,Indiana,United States,,Private Call,None
 4388,3118127,N9CXI,Thomas,Indianapolis,Indiana,United States,,Private Call,None
-4389,3020190,VA7TCM,Trevor,Dawson Creek,British Columbia,Canada,,Private Call,None
+4389,3020190,VA7TCM,Trevor,Fort St John,British Columbia,Canada,,Private Call,None
 4390,3022697,VA7AXS,Andrew J,Mission,British Columbia,Canada,,Private Call,None
 4391,3183936,KD2UNE,George,Syracuse,New York,United States,,Private Call,None
 4392,3150986,KJ6WCS,Phong,Las Vegas,Nevada,United States,,Private Call,None
@@ -4400,7 +4400,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 4399,3125908,KC1HTM,Joseph L,West Harwich,Massachusetts,United States,,Private Call,None
 4400,3192647,KO4ZZD,Kathryn,Lawrenceburg,Kentucky,United States,,Private Call,None
 4401,3116047,N7BMH,Brian M,Mccall,Idaho,United States,,Private Call,None
-4402,3020224,VA7TCM,Trevor,Dawson Creek,British Columbia,Canada,,Private Call,None
+4402,3020224,VA7TCM,Trevor,Fort St John,British Columbia,Canada,,Private Call,None
 4403,3169103,KB1KXJ,Daral,Northport,Maine,United States,,Private Call,None
 4404,3104055,W7IXA,Doug,Scottsdale,Arizona,United States,,Private Call,None
 4405,3192945,KY4QM,Roy,Spartanburg,South Carolina,United States,,Private Call,None
@@ -7787,7 +7787,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 7786,3118920,N9AIM,Robert J,Brownsburg,Indiana,United States,,Private Call,None
 7787,3102031,KL4NW,Jon G,Homer,Alaska,United States,,Private Call,None
 7788,3190649,K7KL,James,Portland,Oregon,United States,,Private Call,None
-7789,3144653,KD2AOY,Chris,San Francisco,California,United States,,Private Call,None
+7789,3144653,KD2AOY,Chris,Santa Monica,California,United States,,Private Call,None
 7790,3131590,WA8OII,Catherine M,Ferndale,Michigan,United States,,Private Call,None
 7791,3126440,N8XOL,Ronnie,Warren,Michigan,United States,,Private Call,None
 7792,3170762,W6ZZW,Donald R,Beverly Hills,California,United States,,Private Call,None
@@ -14643,7 +14643,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 14642,3023727,VA3DMP,Essex County Eoc,Essex,Ontario,Canada,,Private Call,None
 14643,3183081,K4JMT,John,Moyock,North Carolina,United States,,Private Call,None
 14644,3162248,KC1MSN,Bernard,Milton,Massachusetts,United States,,Private Call,None
-14645,3172397,KD2AOY,Chris,San Francisco,California,United States,,Private Call,None
+14645,3172397,KD2AOY,Chris,Santa Monica,California,United States,,Private Call,None
 14646,3133065,W1VE,Gerry,Hancock,New Hampshire,United States,,Private Call,None
 14647,3136558,AI2M,Dan,Rochester,New York,United States,,Private Call,None
 14648,3102749,N7ROO,Matt,North Bend,Washington,United States,,Private Call,None
