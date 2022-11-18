@@ -809,7 +809,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 808,3172960,KB7AVT,Joseph M,Fort Leonard Wood,Missouri,United States,,Private Call,None
 809,3187819,AA0AM,Andy,Tama,Iowa,United States,,Private Call,None
 810,3181025,K6XQ,Roger,Vallejo,California,United States,,Private Call,None
-811,3171650,N1TPR,Erin,Rosalia,Washington,United States,,Private Call,None
+811,3171650,ND7B,Erin,Rosalia,Washington,United States,,Private Call,None
 812,3106586,F4BWG,Oliver,Los Angeles,California,United States,,Private Call,None
 813,3153344,NA7Q,Mike,Naselle,Washington,United States,,Private Call,None
 814,3192517,KI5VAG,Carl,Tulsa,Oklahoma,United States,,Private Call,None
@@ -1557,7 +1557,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 1556,3114491,KE6YGM,John,Mission Viejo,California,United States,,Private Call,None
 1557,3124224,KC3DPS,Robert J,Berlin,Maryland,United States,,Private Call,None
 1558,3171353,KE0WKX,Nicholas,Rosemount,Minnesota,United States,,Private Call,None
-1559,3154112,KB8AOB,Richard C,Buckhannon,West Virginia,United States,,Private Call,None
+1559,3154112,KB8AOB,Richard C,Morgantown,West Virginia,United States,,Private Call,None
 1560,3174578,WA2UBH,Mark J,Monroe Twp,New Jersey,United States,,Private Call,None
 1561,3181957,W0DYD,Gary,Shakopee,Minnesota,United States,,Private Call,None
 1562,3140105,W9UQ,Dan,Tulsa,Oklahoma,United States,,Private Call,None
@@ -3279,7 +3279,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 3278,3193963,W0DRB,Jerald,Osceola,Iowa,United States,,Private Call,None
 3279,3174547,KE8PZN,James,Chapmanville,West Virginia,United States,,Private Call,None
 3280,1118207,KD9GGZ,Andrew A,Nappanee,Indiana,United States,,Private Call,None
-3281,3191170,KG6VYE,Raul,Santa Clara,California,United States,,Private Call,None
+3281,3191170,K6RDL,Raul,Santa Clara,California,United States,,Private Call,None
 3282,3116290,KJ7AKV,Tim L,Arlington,Washington,United States,,Private Call,None
 3283,3192806,N3OCQ,Andrew,Chantilly,Virginia,United States,,Private Call,None
 3284,3158993,KC1KCE,Grant B,Sapulpa,Oklahoma,United States,,Private Call,None
@@ -7221,7 +7221,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 7220,3105939,W4RPK,Ralph P,Prattville,Alabama,United States,,Private Call,None
 7221,3150729,KD2SPW,Adam P,Forestville,New York,United States,,Private Call,None
 7222,2349977,M7CNE,Andrew,Stoke-On-Trent,England,United Kingdom,,Private Call,None
-7223,3100717,N8HRO,Thomas L,Beavercreek,Ohio,United States,,Private Call,None
+7223,3100717,W8FBI,Thomas L,Beavercreek,Ohio,United States,,Private Call,None
 7224,3110727,N8PPX,Allen A,Beavercreek,Ohio,United States,,Private Call,None
 7225,3103048,K4BJ,William W,Weston,Florida,United States,,Private Call,None
 7226,3149873,KE8KZI,William A,North Lima,Ohio,United States,,Private Call,None
@@ -12215,7 +12215,7 @@ No.,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 12214,2200166,YU2DVD,Dragan,Pirot,,Serbia,,Private Call,None
 12215,2638065,DL3RCE,Dieter,Hexenagger,,Germany,,Private Call,None
 12216,7243488,PU2BON,Benedito,Brasilia,Distrito Federal,Brazil,,Private Call,None
-12217,2862151,TA1CUN,Cuneyt,Istanbul,Marmara Region,Turkey,,Private Call,None
+12217,2862151,TA1CUN,Cuneyt,Istanbul,,Turkey,,Private Call,None
 12218,3110558,KG5SST,Rodney D,Purcell,Oklahoma,United States,,Private Call,None
 12219,2200291,YT7ROC,Antun,,,Serbia,,Private Call,None
 12220,2606037,SO6AFT,Marek,Wroclaw,Dolnośląskie,Poland,,Private Call,None
